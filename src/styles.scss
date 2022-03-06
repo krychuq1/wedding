@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "Creattion";
+  src: local("Creattion"), url(./assets/fonts/Creattion-Demo.otf) format("opentype");
+}
+@font-face {
+  font-family: "Exo";
+  src: local("Exo"), url(./assets/fonts/Exo.ttf) format("truetype");
+}
+body{
+  margin: 0;
+  padding: 0;
+}
